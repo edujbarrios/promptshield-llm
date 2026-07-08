@@ -1,6 +1,6 @@
 # promptshield-llm
 
-[![PyPI](https://img.shields.io/pypi/v/promptshield-llm.svg)](https://pypi.org/project/promptshield-llm/)
+[![PyPI](https://img.shields.io/badge/PyPI-promptshield--llm-blue.svg)](https://pypi.org/project/promptshield-llm/)
 [![License: MPL-2.0](https://img.shields.io/badge/License-MPL--2.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
 
 Redact sensitive data from LLM prompts before sending them to a model.
